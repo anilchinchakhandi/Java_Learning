@@ -1,0 +1,37 @@
+1) What is a java?
+- java is class based object oriented programming language.
+
+*** IT was developed by " JAMES GOSLING " IN "1995" ***
+
+2) Important features :
+- Object oriented programming language.
+- Platform independent.
+- Robust and Secure.
+
+3) use cases:
+- Building android Applications.
+- Java web applications.
+- Building software tools. etc
+
+4) Java Architecture :
+
+              compiler                  Interpreter
+SOURCE CODE ---------------> BYTE CODE ----------------> MACHINE CODE 0/1
+(.java)       (javac)         .class      (jvm)
+
+
+* Mainly THREE components :
+
+* JVM : JAVA VIRTUAL MACHINE 
+    1)JVM ia a machine dependent and converts bytecode into machine code.
+
+* JDK : JAVA DEVELOPMENT KIT
+    1) It provides the DEVELOPMENT tools
+
+* JRE: JAVA RUN TIME ENVIRONMENT 
+    1) JVM + LIBRARIES
+
+
+
+
+
